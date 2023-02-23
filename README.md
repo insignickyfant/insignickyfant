@@ -2,7 +2,7 @@
 - 👀 I’m interested in gamifying life through the use of mobile applications. I also like veterinary medicine, psychology and\
      &emsp;&nbsp; extreme sports.
 - 🌱 I’m currently studying Computer Science with a Game Technology track.\
-     &emsp;&nbsp; The courses I'm taking currently are: {\
+     &emsp;&nbsp; The courses I'm taking currently are {\
      &emsp; &emsp; &emsp; Databases,\
      &emsp; &emsp; &emsp; Game Design,\
      &emsp; &emsp; &emsp; Game Programming.\
