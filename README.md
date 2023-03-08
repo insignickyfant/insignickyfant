@@ -7,7 +7,7 @@
      &emsp; &emsp; &emsp; Game Programming.\
      &emsp; &nbsp;}
 - 💞️ I’m looking to collaborate on learning the basics of game development.
-- 📫 You can find me on [LinkedIn](www.linkedin.com/in/nicky-schaafsma).
+- 📫 You can find me on [LinkedIn](http://www.linkedin.com/in/nicky-schaafsma).
 
 <!---
 insignickyfant/insignickyfant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
